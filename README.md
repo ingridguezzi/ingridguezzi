@@ -22,9 +22,18 @@
 </br>
 </br>
 
-#### Designer Gráfica migrando para Desenvolvimento Front-End
-Passando raiva e criando bugs!
+#### Designer Gráfica me especializando em Desenvolvimento Front-End  
+<b>"A tecnologia é uma ferramenta que permite às pessoas realizar coisas incríveis e transformar o mundo ao seu redor." - Satya Nadella</b>  
 
+<p>Sou Designer Gráfica desde 2018 e atualmente estou me especializando em Desenvolvimento Front-End. </br>
+Passando raiva e criando bugs 😂, mas a cada vez mais me identificando!  </br>
+Sempre me interessei em conhecer mais as pessoas, quais são suas motivações, suas escolhas e suas formas de pensar. </br>
+Acredito que a tecnologia pode fazer a diferença na vida de cada um. Por isso, tenho como objetivo desenvolver sites ou interfaces que sejam significativas para os usuários, contribuindo com solução de problemas e ideias inovadoras. </br>
+</br>
+❤️ Amo ler, cinema, teatro, viagens e pet's! </br>
+</br>
+💻 Atualmente estudo: Graduação em Sistemas para Internet, Especialização em Desenvolviment Front-End e Especialização em Back-End.
+</p>
 </br>
 </br>
 
