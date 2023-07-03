@@ -32,7 +32,7 @@ Acredito que a tecnologia pode fazer a diferença na vida de cada um. Por isso, 
 </br>
 ❤️ Amo ler, cinema, teatro, viagens e pet's! </br>
 </br>
-💻 Atualmente estudo: Graduação em Sistemas para Internet, Especialização em Desenvolviment Front-End e Especialização em Back-End.
+💻 Atualmente estudo: Graduação em Sistemas para Internet, Especialização em Desenvolvimento Front-End e Especialização em Desenvolvimento Full Stack.
 </p>
 </br>
 </br>
