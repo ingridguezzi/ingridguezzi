@@ -41,11 +41,3 @@ Sou Designer Gráfica desde 2018 e atualmente venho buscando aprimoramento, conh
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-
-##
-<div>
-<p align="center">
-<a href="https://github.com/ingridguezzi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridguezzi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridguezzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
