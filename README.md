@@ -22,7 +22,7 @@
 </br>
 </br>
 
-#### Designer Gráfica migrando para Quality Assurance Software (QA)  
+#### Designer Gráfica migrando para Qualidade de Software (QA)  
 <b>"A tecnologia é uma ferramenta que permite às pessoas realizar coisas incríveis e transformar o mundo ao seu redor." - Satya Nadella</b>  
 Sou Designer Gráfica desde 2018 e atualmente venho buscando aprimoramento, conhecimento e boas práticas na área de Análise de Testes Automatizados. Área que venho me identificando cada vez mais!
 </br>
